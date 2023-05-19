@@ -44,8 +44,3 @@ Start App with `run-android` or `eun-ios`
  npx react-native run-android
 ```
 
-
-## Feedback 
-
-Would you like to speak with me? I find myself on Linkedin: [linkedin.com/in/rodrigo-goncalves-santana/](https://www.linkedin.com/in/rodrigo-goncalves-santana/)
-
