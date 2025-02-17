@@ -14,6 +14,7 @@ Complete application to assist Waiters of a Pizzeria. In this App, the Administr
 
 ## Features
 
+
 - User authentication (customer and waiter)
 - User Register
 - Password Recovery with e-mail
