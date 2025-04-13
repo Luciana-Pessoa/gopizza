@@ -13,6 +13,7 @@ Complete application to assist Waiters of a Pizzeria. In this App, the Administr
 - Firebase Cloud Auth
 - Firebase Storage
 
+
 ## Features
 
 
